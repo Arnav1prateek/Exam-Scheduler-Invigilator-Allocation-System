@@ -10,6 +10,17 @@
             "username": "postgres",
             "password": "Sushil@2004",
             "connectionTimeout": 30
+        },
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "LocalDB",
+            "database": "Examsched_test",
+            "username": "postgres",
+            "password": "MySQL24@25",
+            "connectionTimeout": 30
         }
     ]
 }

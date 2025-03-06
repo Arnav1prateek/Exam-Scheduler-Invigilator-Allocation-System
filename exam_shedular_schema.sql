@@ -76,13 +76,4 @@ CREATE TABLE Takes (
 
 
 INSERT INTO room VALUES
-('1','101','Tech Park','Class',60),
-('2','102','Tech Park','Class',60),
-('3','103','Tech Park','Class',60),
-('4','105','Tech Park','Class',60),
-('5','201','Tech Park','Class',60),
-('6','202','Tech Park','Class',60),
-('7','203','Tech Park','Class',60),
-('8','204','Tech Park','Class',60),
-('9','205','Tech Park','Class',60),
-('10','206','Tech Park','Class',60);
+('11','301','Tech Park','Class',60);
